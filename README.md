@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
-<h3 align="center">A passionate Data Analyst From Egypt</h3>
+<h3 align="center">A passionate Data Analyst / Scientist From Egypt</h3>
 
 <p align="left"> <a href="https://twitter.com/dajoe312" target="blank"><img src="https://img.shields.io/twitter/follow/dajoe312?logo=twitter&style=for-the-badge" alt="dajoe312" /></a> </p>
 
